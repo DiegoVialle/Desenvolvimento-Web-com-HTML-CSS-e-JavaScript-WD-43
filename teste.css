@@ -1,0 +1,20 @@
+#conteudo {
+    width: 800px;
+    margin: 0 auto;
+}
+#topo {
+    background-color: green;
+    width: 800px;
+    height: 150px;
+}
+#menu {
+    background-color: blue;
+    width: 200px;
+    height: 400px;
+    float: left;
+}
+#banner {
+    width: 500px;
+    height: 500px;
+    background-color: red;
+}
